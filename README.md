@@ -9,7 +9,6 @@
 - 🔭 I'm currently working on **Customer Churn Prediction and Retention Analysis**
 - 🌱 I'm currently learning **Machine Learning and Deep Learning**
 - 💡 I love turning data into meaningful insights
-- 🎯 Goal: To become a Data Scientist / ML Engineer
 
 ---
 
@@ -53,6 +52,5 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanuhshre25@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhanuhshre)
 
----
 
 ⭐️ *Feel free to explore my repositories and star the ones you find interesting!*
