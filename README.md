@@ -54,60 +54,39 @@
 
 # 🚀 Featured Projects
 
-## 📊 Customer Churn Prediction & Retention Analysis
-Predict customer churn using Machine Learning techniques and identify key factors affecting retention.
+### 📊 Customer Churn Prediction & Retention Analysis
+- Built predictive models to identify customers likely to churn.
+- Performed data cleaning, EDA, feature engineering, and model evaluation.
+- Achieved high prediction accuracy using Machine Learning algorithms.
 
-### Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-
-### Highlights
-✔ Data Cleaning & Preprocessing  
-✔ Exploratory Data Analysis (EDA)  
-✔ Logistic Regression & Random Forest Models  
-✔ Feature Importance Analysis  
-✔ 81.55% Prediction Accuracy
-
-🔗 Repository: https://github.com/Bhanuhshre/Customer-Churn-Prediction-and-Retention-Analysis
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
 ---
 
-## 🍛 Indian Food Recogniser
-Deep Learning-based food classification system that identifies Indian food items from images.
+### 🤖 AI-Powered Email Generator
+- Developed an AI-powered application that generates professional emails from user prompts.
+- Integrated LLM APIs and built an interactive web interface.
+- Enabled customizable email generation for multiple use cases.
 
-### Technologies Used
-- PyTorch
-- ResNet-50
-- Streamlit
-- Computer Vision
-
-### Highlights
-✔ Food Image Classification  
-✔ Transfer Learning using ResNet-50  
-✔ Interactive Streamlit Web App  
-✔ Real-Time Predictions
+**Tech Stack:** Python, Streamlit, Generative AI, Prompt Engineering
 
 ---
 
-## 📦 Retail Demand Forecasting System
-Forecast product demand using historical sales data to optimize inventory planning.
+### 🛒 E-Commerce Customer Intelligence Platform
+- Analyzed customer behavior and purchasing patterns.
+- Built dashboards and insights for customer segmentation and retention.
+- Improved business decision-making through data-driven analytics.
 
-### Technologies Used
-- Python
-- Machine Learning
-- Time Series Analysis
-- Data Visualization
-
-### Highlights
-✔ Demand Forecasting  
-✔ Trend Analysis  
-✔ Inventory Optimization
+**Tech Stack:** Python, SQL, Power BI, Machine Learning
 
 ---
+
+### 🔗 Distributed URL Shortener Service
+- Designed a scalable URL shortening system.
+- Implemented efficient URL mapping and retrieval mechanisms.
+- Explored distributed system concepts and backend architecture.
+
+**Tech Stack:** Python, APIs, Databases, System Design
 
 # 📚 Currently Learning
 
