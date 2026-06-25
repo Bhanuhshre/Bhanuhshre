@@ -1,129 +1,177 @@
-# Hi there, I'm Bhanuhshre 👋
+# Hi, I'm Bhanushre 👋
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 Final-Year Computer Science Engineering Student  
-🤖 Aspiring AI Engineer | Data Analyst | Machine Learning Enthusiast  
-📊 Passionate about transforming data into intelligent solutions  
-🚀 Building AI-powered applications and data-driven projects
+🎓 Final-Year Computer Science Student  
+📊 Aspiring Data Analyst | Data Science Enthusiast | Machine Learning Engineer  
+📍 India
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-- 🔭 Currently working on **Customer Churn Prediction & Retention Analysis**
-- 🌱 Learning **Deep Learning, Generative AI, LLMs, and MLOps**
-- 💡 Interested in **Artificial Intelligence, Data Science, NLP, and Predictive Analytics**
-- 📈 Love solving real-world problems using Machine Learning
-- 🎯 Goal: Become an AI Engineer and contribute to impactful AI products
+I'm passionate about transforming raw data into meaningful insights and building intelligent systems that solve real-world business problems.
+
+- 📈 Data Analytics & Business Intelligence
+- 🤖 Machine Learning & Predictive Modeling
+- 📊 Data Visualization & Dashboard Development
+- 🐍 Python, SQL, Power BI
+- 🌐 Streamlit Application Development
+
+Currently seeking opportunities in:
+- Data Analyst
+- Business Analyst
+- Data Science
+- Machine Learning
+- AI Engineering
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Languages
+- Python
+- SQL
+- Java
 
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+### Data Analytics
+- Power BI
+- Microsoft Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-### Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00BFFF?style=for-the-badge)
+### Machine Learning
+- Scikit-Learn
+- XGBoost
+- Random Forest
+- Prophet
+- Deep Learning
+- CNN
+- ResNet
 
-### AI Engineering
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF4B4B?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
+### Databases
+- MySQL
+- PostgreSQL
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+- Git
+- GitHub
+- Streamlit
+- Jupyter Notebook
+- VS Code
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
-### 📊 Customer Churn Prediction & Retention Analysis
-- Built predictive models to identify customers likely to churn.
-- Performed data cleaning, EDA, feature engineering, and model evaluation.
-- Achieved high prediction accuracy using Machine Learning algorithms.
+## 📦 Demand Forecasting for Dark Stores
 
-**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Built a Prophet-based demand forecasting solution using **397K+ retail transactions** across multiple delivery zones.
 
----
+### Key Achievements
+- Integrated weather and holiday features
+- Improved forecast accuracy by **48.6%**
+- Reduced stockout days by **64%**
+- Increased fill rate to **97.4%**
+- Generated actionable inventory insights
 
-### 🤖 AI-Powered Email Generator
-- Developed an AI-powered application that generates professional emails from user prompts.
-- Integrated LLM APIs and built an interactive web interface.
-- Enabled customizable email generation for multiple use cases.
-
-**Tech Stack:** Python, Streamlit, Generative AI, Prompt Engineering
+### Tech Stack
+Python • Prophet • Pandas • NumPy • Forecasting
 
 ---
 
-### 🛒 E-Commerce Customer Intelligence Platform
-- Analyzed customer behavior and purchasing patterns.
-- Built dashboards and insights for customer segmentation and retention.
-- Improved business decision-making through data-driven analytics.
+## 👨‍💼 Employee Attrition Risk Predictor
 
-**Tech Stack:** Python, SQL, Power BI, Machine Learning
+Developed an XGBoost-powered HR analytics system to predict employee attrition risk.
+
+### Key Achievements
+- Achieved **89% Recall**
+- Implemented SHAP explainability
+- Created interactive Streamlit dashboard
+- Enabled data-driven retention strategies
+
+### Tech Stack
+Python • XGBoost • SHAP • Streamlit • Machine Learning
 
 ---
 
-### 🔗 Distributed URL Shortener Service
-- Designed a scalable URL shortening system.
-- Implemented efficient URL mapping and retrieval mechanisms.
-- Explored distributed system concepts and backend architecture.
+## 🏏 IPL Player Auction Valuation Model
 
-**Tech Stack:** Python, APIs, Databases, System Design
+Built a player valuation system using historical IPL performance data.
 
-# 📚 Currently Learning
+### Key Achievements
+- Achieved **R² = 0.85**
+- Predicted auction prices using Random Forest
+- Identified undervalued players
+- Supported data-driven auction decisions
 
-- Deep Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- MLOps
-- AI Agents
-- LangChain
+### Tech Stack
+Python • Random Forest • Scikit-Learn • Data Analytics
+
+---
+
+## 📈 Customer Churn Prediction & Retention Analysis
+
+Developed a machine learning solution to identify customers likely to churn.
+
+### Highlights
+- Comprehensive EDA
+- Feature Engineering
+- Predictive Modeling
+- Retention Insights
+
+### Tech Stack
+Python • Pandas • Scikit-Learn • Data Analysis
+
+---
+
+## 🛒 E-Commerce Customer Intelligence Platform
+
+Built a customer analytics platform to uncover purchasing behavior and business insights.
+
+### Highlights
+- Customer Segmentation
+- Sales Analytics
+- Behavioral Analysis
+- Business Intelligence Reporting
+
+### Tech Stack
+Python • SQL • Power BI • Analytics
+
+---
+
+## 🤖 AI-Powered Email Generator
+
+Developed an AI-based email generation system capable of producing professional emails from prompts.
+
+### Highlights
+- AI-Powered Content Generation
+- Editable Draft Workflow
+- User-Friendly Interface
+- Email Automation
+
+### Tech Stack
+Python • Streamlit • Generative AI
+
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Power BI Dashboard Design
+- Machine Learning Optimization
+- MLOps Fundamentals
 - Generative AI Applications
 
 ---
 
-## 🎯 Career Interests
+## 📫 Connect With Me
 
-- Artificial Intelligence Engineering
-- Machine Learning Engineering
-- Data Science
-- Data Analytics
-- Generative AI
-- NLP Applications
-- Predictive Analytics
+📧 Email: bhanuhshre25@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/varikuti-bhanuhshre-7a9814255
+
+🌐 GitHub: https://github.com/Bhanuhshre
 
 ---
 
-## 🤝 Connect With Me
-
-📧 Email: **bhanuhshre25@gmail.com**
-
-💼 LinkedIn: **https://www.linkedin.com/in/varikuti-bhanuhshre-7a9814255/**
-
-💻 GitHub: **https://github.com/Bhanuhshre**
-
----
-
-### ✨ Quote I Live By
-
-> "Turning data into insights and ideas into intelligent solutions."
-
-⭐ If you like my work, feel free to star my repositories and connect with me!
+⭐ Open to Full-Time, Internship, and Entry-Level Opportunities in Data Analytics, Data Science, Machine Learning, and AI.
