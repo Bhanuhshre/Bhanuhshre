@@ -1,177 +1,61 @@
-# Hi, I'm Bhanushre 👋
+# Varikuti Bhanuhshre
 
-🎓 Final-Year Computer Science Student  
-📊 Aspiring Data Analyst | Data Science Enthusiast | Machine Learning Engineer  
-📍 India
+Final-year Computer Science student focused on data analytics and machine learning. I build systems that go from raw transactional data to a model or dashboard someone downstream actually uses — forecasting, risk prediction, valuation, or reporting.
 
----
-
-## 🚀 About Me
-
-I'm passionate about transforming raw data into meaningful insights and building intelligent systems that solve real-world business problems.
-
-- 📈 Data Analytics & Business Intelligence
-- 🤖 Machine Learning & Predictive Modeling
-- 📊 Data Visualization & Dashboard Development
-- 🐍 Python, SQL, Power BI
-- 🌐 Streamlit Application Development
-
-Currently seeking opportunities in:
-- Data Analyst
-- Business Analyst
-- Data Science
-- Machine Learning
-- AI Engineering
+Based in India. Open to full-time and internship roles in Data Analytics, Data Science, Machine Learning, and AI Engineering.
 
 ---
 
-## 🛠️ Technical Skills
+## Featured Projects
 
-### Languages
-- Python
-- SQL
-- Java
+**Demand Forecasting for Dark Stores**
+Prophet-based forecasting model on 397K+ retail transactions across multiple delivery zones, with weather and holiday features layered in. Improved forecast accuracy by 48.6%, cut stockout days by 64%, and raised fill rate to 97.4%.
+`Python` `Prophet` `Pandas` `NumPy`
+→ [[repo link](https://github.com/Bhanuhshre/Demand-Forecasting-for-Dark-Stores)]
 
-### Data Analytics
-- Power BI
-- Microsoft Excel
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+**Employee Attrition Risk Predictor**
+XGBoost model predicting employee attrition risk, with SHAP explainability so HR can see *why* a given employee is flagged, not just the score. Shipped as an interactive Streamlit dashboard. 89% recall on the attrition class.
+`Python` `XGBoost` `SHAP` `Streamlit`
+→ [[repo link](https://github.com/Bhanuhshre/Employee-Attrition-Risk-Predictor)]
 
-### Machine Learning
-- Scikit-Learn
-- XGBoost
-- Random Forest
-- Prophet
-- Deep Learning
-- CNN
-- ResNet
+**IPL Player Auction Valuation Model**
+Random Forest model valuing IPL players from historical performance data to flag undervalued players ahead of auction. R² = 0.85 on held-out data.
+`Python` `Scikit-Learn` `Random Forest`
+→ [[repo link](https://github.com/Bhanuhshre/IPL-Player-Auction-Valuation-Model)]
 
-### Databases
-- MySQL
-- PostgreSQL
+**Customer Churn Prediction & Retention Analysis**
+End-to-end churn model — EDA, feature engineering, and a classifier identifying customers likely to leave — paired with retention-focused insights for the business side.
+`Python` `Pandas` `Scikit-Learn`
+→ [[repo link](https://github.com/Bhanuhshre/Customer-Churn-Prediction-and-Retention-Analysis)]
 
-### Tools & Platforms
-- Git
-- GitHub
-- Streamlit
-- Jupyter Notebook
-- VS Code
+**E-Commerce Customer Intelligence Platform**
+Customer segmentation and sales analytics platform surfacing purchasing behavior patterns, built as a SQL + Power BI reporting layer for business stakeholders.
+`Python` `SQL` `Power BI`
+→ [[repo link](https://github.com/Bhanuhshre/E-commerce-Customer-Intelligence-Platform)]
+
+**AI-Powered Email Generator**
+Prompt-to-draft email generation tool with an editable-draft workflow, built on a generative AI backend behind a Streamlit interface.
+`Python` `Streamlit` `Generative AI`
+→ [[repo link](https://github.com/Bhanuhshre/AI-Powered-Email-Generator)]
 
 ---
 
-# 📌 Featured Projects
+## Skills
 
-## 📦 Demand Forecasting for Dark Stores
+**Languages** — Python, SQL, Java
+**Data Analytics** — Power BI, Excel, Pandas, NumPy, Matplotlib, Seaborn
+**Machine Learning** — Scikit-Learn, XGBoost, Random Forest, Prophet, Deep Learning (CNN, ResNet)
+**Databases** — MySQL, PostgreSQL
+**Tools** — Git, GitHub, Streamlit, Jupyter, VS Code
 
-Built a Prophet-based demand forecasting solution using **397K+ retail transactions** across multiple delivery zones.
+## Currently learning
 
-### Key Achievements
-- Integrated weather and holiday features
-- Improved forecast accuracy by **48.6%**
-- Reduced stockout days by **64%**
-- Increased fill rate to **97.4%**
-- Generated actionable inventory insights
-
-### Tech Stack
-Python • Prophet • Pandas • NumPy • Forecasting
+Advanced SQL, Power BI dashboard design, ML optimization, MLOps fundamentals, generative AI applications.
 
 ---
 
-## 👨‍💼 Employee Attrition Risk Predictor
+## Contact
 
-Developed an XGBoost-powered HR analytics system to predict employee attrition risk.
-
-### Key Achievements
-- Achieved **89% Recall**
-- Implemented SHAP explainability
-- Created interactive Streamlit dashboard
-- Enabled data-driven retention strategies
-
-### Tech Stack
-Python • XGBoost • SHAP • Streamlit • Machine Learning
-
----
-
-## 🏏 IPL Player Auction Valuation Model
-
-Built a player valuation system using historical IPL performance data.
-
-### Key Achievements
-- Achieved **R² = 0.85**
-- Predicted auction prices using Random Forest
-- Identified undervalued players
-- Supported data-driven auction decisions
-
-### Tech Stack
-Python • Random Forest • Scikit-Learn • Data Analytics
-
----
-
-## 📈 Customer Churn Prediction & Retention Analysis
-
-Developed a machine learning solution to identify customers likely to churn.
-
-### Highlights
-- Comprehensive EDA
-- Feature Engineering
-- Predictive Modeling
-- Retention Insights
-
-### Tech Stack
-Python • Pandas • Scikit-Learn • Data Analysis
-
----
-
-## 🛒 E-Commerce Customer Intelligence Platform
-
-Built a customer analytics platform to uncover purchasing behavior and business insights.
-
-### Highlights
-- Customer Segmentation
-- Sales Analytics
-- Behavioral Analysis
-- Business Intelligence Reporting
-
-### Tech Stack
-Python • SQL • Power BI • Analytics
-
----
-
-## 🤖 AI-Powered Email Generator
-
-Developed an AI-based email generation system capable of producing professional emails from prompts.
-
-### Highlights
-- AI-Powered Content Generation
-- Editable Draft Workflow
-- User-Friendly Interface
-- Email Automation
-
-### Tech Stack
-Python • Streamlit • Generative AI
-
-
-## 🌱 Currently Learning
-
-- Advanced SQL
-- Power BI Dashboard Design
-- Machine Learning Optimization
-- MLOps Fundamentals
-- Generative AI Applications
-
----
-
-## 📫 Connect With Me
-
-📧 Email: bhanuhshre25@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/varikuti-bhanuhshre-7a9814255
-
-🌐 GitHub: https://github.com/Bhanuhshre
-
----
-
-⭐ Open to Full-Time, Internship, and Entry-Level Opportunities in Data Analytics, Data Science, Machine Learning, and AI.
+Email: bhanuhshre25@gmail.com
+LinkedIn: [linkedin.com/in/varikuti-bhanuhshre-7a9814255](https://www.linkedin.com/in/varikuti-bhanuhshre-7a9814255)
+GitHub: [github.com/Bhanuhshre](https://github.com/Bhanuhshre)
